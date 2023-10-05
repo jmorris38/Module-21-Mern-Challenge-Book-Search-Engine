@@ -6,9 +6,6 @@
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
 
 ## Description:
 
@@ -74,18 +71,3 @@ npm run develop
 
 ![Screenshot](./client/public/GBS.png)
 
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
-
-## Contribution
-
-Made by Wenwen Tian
-
-## Questions?
-
-Please feel free to contact me if you need any further information:
-
-- [Email](mailto:wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
